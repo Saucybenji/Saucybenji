@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Saucybenji
+- 👋 Hi, I’m Benjamin
 - 👀 I’m interested in data visualization, data analysis and R programming language 
 - 🌱 I’m currently learning R programming language and everything related to Statistics
 - 📫 How to reach me benyamindjawadi@gmail.com
